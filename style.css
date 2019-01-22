@@ -26,9 +26,10 @@ body {
 
 
 
+.padding {
+   padding-top: 7%;
 
-
-
+} 
 
 #gui_controls {
     position: fixed;
