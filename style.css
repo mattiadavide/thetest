@@ -144,13 +144,14 @@ button {
     display: none;
     width: 64px;
     height: 64px;
-    background-image: url('img/ic_camera_rear_white_36px.svg');
+    background-image: url('img/icone/logo.png');
     border-radius: 50%;
     background-color: rgba(0, 0, 0, 0.5);
 }
 
 #switchCameraButton[aria-pressed="true"] {
-    background-image: url('img/ic_camera_front_white_36px.svg');
+    background-image: url('img/icone/logo.png');
+    
 }
 
 @media screen and (orientation:portrait) {
