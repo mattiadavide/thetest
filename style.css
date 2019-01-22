@@ -215,4 +215,12 @@ button {
         top: calc(82% - 32px);
     }
 
-} 
+
+
+    html {
+        -webkit-transform: translateY(-100%) rotate(90deg);    
+        transform: translateY(-100%) rotate(90deg);
+        -webkit-transform-origin: left bottom;    
+        transform-origin: left bottom;    
+    }
+    }
