@@ -129,11 +129,11 @@ button {
 
 #toggleFullScreenButton {
     display: none;
-    width: 64px;
-    height: 64px;
+    width: 32px;
+    height: 32px;
     background-image: url('img/icone/logo.png');
     
-    background-color: rgba(0, 0, 0, 0.5);
+    
 }
 
 #toggleFullScreenButton[aria-pressed="true"] {
