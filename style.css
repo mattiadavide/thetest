@@ -203,7 +203,7 @@ button {
 @media screen and (orientation:landscape) {
 
     #vid_container {
-        width:80%;
+        width:100%;
         height:100%;
     }  
 
