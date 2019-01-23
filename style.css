@@ -127,7 +127,19 @@ button {
     pointer-events: auto;
     z-index: 2;
 }
+#grid {
+    left: calc(50% - 40px);
+    top: calc(50% - 40px);
+    width: 80px;
+    height: 80px;
+    background-image: url('img/icone/logo.png');
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
 
+#grid:active {
+    background-color: #fff;
+}
 #takePhotoButton {
     left: calc(50% - 40px);
     top: calc(50% - 40px);
